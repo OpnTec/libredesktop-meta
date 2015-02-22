@@ -25,3 +25,5 @@ Resources
 
 Möglicherweise in diesem Zusammenhang interessant:
 https://addons.mozilla.org/en-US/firefox/addon/cck2wizard/
+
+NSIS Installer: http://nsis.sourceforge.net/Main_Page
