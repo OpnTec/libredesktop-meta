@@ -1,7 +1,11 @@
-# soerenx-plugin
-SoerenX-Plugin is a way to add custom Open search, tiles, snippets to your Firefox browser
+# libredesktop-meta
 
-## What are we changing?
+The libredesktop-meta package takes care of customizing packages and settings for the libredesktop.
+
+## Customizing browser settings
+In the browser settings custom search, tiles, snippets can be set for browsers.
+
+### What are we changing in the Firefox browser?
 
 1) Directory Tiles:
 in about:config: browser.newtabpage.directory.source
